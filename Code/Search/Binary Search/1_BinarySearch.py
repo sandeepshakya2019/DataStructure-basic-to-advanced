@@ -1,2 +1,0 @@
-def BinarySearch(arr):
-    pass
